@@ -16,7 +16,7 @@ cat
 person
 mask
 </code>
-</person>
+</pre>
 위에 처럼 여러개 혹은 한개만 입력할 수 있다.
 
 
