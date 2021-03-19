@@ -2,9 +2,9 @@
 Colab을 이용한 darknet(YOLOV4) 훈련 방법 및 실행
 # 훈련을 위한 사진 라벨링
 - 모델 학습을 위해 라벨링한 객체의 이름을 미리 알려주어야 합니다.
-(*주의 폴더 경로에 한글이 존재할 때 오류가 발생합니다!)
+   (*주의 폴더 경로에 한글이 존재할 때 오류가 발생합니다!)
 - 라벨링 도구 다운 및 압축 해제
-링크: https://drive.google.com/file/d/1lanO8SyY2QlbVCbOR0LlwQjQYbhoteTd/view
+   링크: https://drive.google.com/file/d/1lanO8SyY2QlbVCbOR0LlwQjQYbhoteTd/view
 -  라벨링 도구 다운 및 압축 해제
 - 
 obj.names의 파일을 만들어줍니다.
