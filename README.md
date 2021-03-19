@@ -5,8 +5,9 @@ Colab을 이용한 darknet(YOLOV4) 훈련 방법 및 실행
 (*주의 폴더 경로에 한글이 존재할 때 오류가 발생합니다!)   
 - 라벨링 도구 다운 및 압축 해제   
 링크: https://drive.google.com/file/d/1lanO8SyY2QlbVCbOR0LlwQjQYbhoteTd/view   
--  라벨링 도구 다운 및 압축 해제
-- 
+- 라벨링 도구 폴더에 data 폴더 생성   
+- data 폴더에 image 폴더 생성   
+- image 폴더에 학습할 이미지 저장   
 obj.names의 파일을 만들어줍니다.
 <pre>
 <code>
