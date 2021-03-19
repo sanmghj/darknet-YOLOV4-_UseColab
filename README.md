@@ -8,7 +8,7 @@ Colab을 이용한 darknet(YOLOV4) 훈련 방법 및 실행
 - 라벨링 도구 폴더에 data 폴더 생성   
 - data 폴더에 image 폴더 생성   
 - image 폴더에 학습할 이미지 저장   
-obj.names의 파일을 만들어줍니다.
+- data 폴더에 obj.names의 파일을 만들어줍니다.
 <pre>
 <code>
 예)obj.names 파일의 내용
